@@ -1,3 +1,15 @@
+2009-04-14  Dave Cross  <dave@dave.org.uk>
+
+	* lib/WWW/Shorten/Qurl.pm: Bump version number.
+
+	* commit c16f6f870e6b5f42eea4c039ba69fadaec02f6f4
+
+2009-04-11  Dave Cross  <dave@dave.org.uk>
+
+	* Build.PL: Added WWW::Shorten as a requirement.
+
+	* commit 69d3981198e2983090fa2cd1481bd902044567a7
+
 2009-04-11  Dave Cross  <dave@dave.org.uk>
 
 	* README: Added README.

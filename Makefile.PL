@@ -9,7 +9,8 @@ WriteMakefile
                            'LWP' => '5.75',
                            'LWP::UserAgent' => '2.023',
                            'Test::More' => '0.47',
-                           'URI' => '1.27'
+                           'URI' => '1.27',
+                           'WWW::Shorten' => 0
                          },
           'INSTALLDIRS' => 'site',
           'EXE_FILES' => [],
